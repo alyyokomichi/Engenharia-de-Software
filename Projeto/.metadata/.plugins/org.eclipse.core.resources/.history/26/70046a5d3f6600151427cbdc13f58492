@@ -10,8 +10,8 @@ public class Sistema {
 		// TODO Auto-generated method stub
 
 		System.out.println("teste");
-		
-		
+		Cliente cli = new Cliente();
+		cli.setSaldo(100);
 	}
 
 }
