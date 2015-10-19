@@ -11,15 +11,11 @@ Metodologia: Ágil
 
 Banco de Dados do Banco:
    Entidades:
-       1-Contas
-       2-Usuario
-       3-Agencia
+       1-Aluno
+       2-Professor
+       3-Funcionários
    Relacionamentos:
        1-Deposito
-       2-Saque
-       3-Transferencia
-       4-Emprestimo
-       5-Extrato
-       6-Financiamento
+       2-Débito
         
-A partir dessas informações, o intuito será criar um sistema que irá simular o funcionamento de um banco. Os relacionamentos servirão como base para as funções do programa, enquanto as entidades serão a base das classes, podendo sofrer alterações ao longo do desenvolvimento.
+A partir dessas informações, o intuito será criar um sistema de crédito e débito para ser usado no restaurante universitário.. Os relacionamentos servirão como base para as funções do programa, enquanto as entidades serão a base das classes, podendo sofrer alterações ao longo do desenvolvimento.
